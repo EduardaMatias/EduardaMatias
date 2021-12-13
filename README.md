@@ -16,5 +16,4 @@
   <img align="center" alt="Eduarda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eduarda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eduarda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Eduarda-pic" height="150" style="border-radius:50px;" src="![C79BEFF8-4E33-4A5E-88CF-10C98D3931CA](https://user-images.githubusercontent.com/85466761/145739878-4e153533-864a-4848-b509-080618bf7958.jpeg)">
 </div>
