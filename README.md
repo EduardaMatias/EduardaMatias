@@ -1,6 +1,7 @@
 # 💖Olá! Meu nome é Eduarda.
 
 - 🔭 Estudando análise e desenvolvimento de sistemas;
+- 🚀 Estudando Java;
 - 👯 Me aventurando em alguns projetos front-end;
 - 🤔 Buscando evolução! 
 
