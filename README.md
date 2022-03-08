@@ -33,5 +33,7 @@
   <br>
   
 
+<p align="center"><img src="https://user-images.githubusercontent.com/72631018/130673376-595be31b-0bbd-4c9b-8f24-568a5b4f602a.gif" alt="clapping hands image" width="24px" style="max-width:100%;">&nbsp;Agradecimentos:&nbsp;</p>
 
+<p align="center"> ✏<a href="https://cbt.ifsp.edu.br/">IFSP</a>&emsp; :computer: <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>&emsp; 👩‍💻 <a href="https://brazil.generation.org/">Generation</a>&emsp; 🎯 <a href="https://www.alura.com.br/">Alura</a>&emsp;  💡<a href="https://www.dio.me">DIO</a>&emsp; 👾 <a href="https://www.udemy.com//">Udemy</a></p>
 
