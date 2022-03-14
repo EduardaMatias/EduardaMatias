@@ -1,9 +1,9 @@
 # 💖Olá! Meu nome é Eduarda.
 
-- 👩‍💻 Cursando análise e desenvolvimento de sistemas;
-- 🚀 Estudando Java;
-- 🤸‍♀️ Me aventurando em alguns projetos front-end;
-- 🤔 Buscando evolução! 
+- 🎯 Studying systems analysis and Development;
+- 🚀 Currently studying java;
+- 🤸‍♀️ Passionate about web development;
+- 🤔 Full stack developer in training.
 
 
 
