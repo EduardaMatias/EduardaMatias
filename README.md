@@ -1,4 +1,4 @@
-# 💖Olá! Meu nome é Eduarda.
+# 💖Hi, my name's Eduarda!
 
 - 🎯 Studying systems analysis and Development;
 - 🚀 Currently studying java;
