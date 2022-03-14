@@ -1,9 +1,9 @@
 # 💖Hi, my name's Eduarda!
 
-- 🎯 Studying systems analysis and development;
-- 🚀 Currently studying java;
-- 🤸‍♀️ Passionate about web development;
-- 🤔 Full stack developer in training.
+🎯 Studying systems analysis and development; <br>
+🚀 Currently studying java; <br>
+🤸‍♀️ Passionate about web development; <br>
+🤔 Full stack developer in training. <br>
 
 
 
