@@ -30,4 +30,3 @@
 
 <p align="center"> ✏<a href="https://cbt.ifsp.edu.br/">IFSP</a>&emsp; :computer: <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>&emsp; 👩‍💻 <a href="https://brazil.generation.org/">Generation</a>&emsp; 🎯 <a href="https://www.alura.com.br/">Alura</a>&emsp;  💡<a href="https://www.dio.me">DIO</a>&emsp; 👾 <a href="https://www.udemy.com//">Udemy</a></p>
 
-  ![Snake animation](https://github.com/EduardaMatias/EduardaMatias/blob/output/github-contribution-grid-snake.svg)
