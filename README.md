@@ -1,4 +1,9 @@
-# 💖Hi, my name's Eduarda!
+
+# 🚀Olá meu nome é Eduarda! 
+
+ <h5>📖Estudante de Análise e Desenvolvimento de sistemas (IFSP) e participante do Bootcamp de Desenvolvedor(a) Full Stack Java Júnior (Generation). 
+</h5>
+
 
 <div align="center">
   <a href="https://github.com/EduardaMatias">
