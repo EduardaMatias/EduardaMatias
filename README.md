@@ -1,8 +1,8 @@
 
 # 🚀Olá meu nome é Eduarda! 
 
- <h5>📖Estudante de Análise e Desenvolvimento de sistemas (IFSP) e participante do Bootcamp de Desenvolvedor(a) Full Stack Java Júnior (Generation). 
-</h5>
+ <strong>📖Estudante de Análise e Desenvolvimento de sistemas (IFSP) e participante do Bootcamp de Desenvolvedor(a) Full Stack Java Júnior (Generation). 
+ </strong>
 
 
 <div align="center">
