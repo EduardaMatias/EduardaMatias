@@ -3,13 +3,13 @@
 
  <strong>📖Estudante de Análise e Desenvolvimento de sistemas (IFSP) e participante do Bootcamp de Desenvolvedor(a) Full Stack Java Júnior (Generation). 
  </strong>
-<!--
+
 
 <div align="center">
   <a href="https://github.com/EduardaMatias">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardaMatias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaMatias&layout=compact&langs_count=7&theme=dracula"/>
-</div>-->
+</div>
  
  <div align="center" style="display: inline_block"><br>
    
