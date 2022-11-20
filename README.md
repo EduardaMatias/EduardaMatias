@@ -1,37 +1,47 @@
 
-# 🚀Olá meu nome é Eduarda! 
+![](https://komarev.com/ghpvc/?username=EduardaMatias&color=006bed)
 
- <strong>📖Estudante de Análise e Desenvolvimento de sistemas (IFSP) e formada no Bootcamp de Desenvolvedor(a) Full Stack Java Júnior (Generation). 
- </strong>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-<div align="center">
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** no <a href="https://cbt.ifsp.edu.br/">IFSP</a>.
+- 🌱 &nbsp; Estudando sobre **JavaScript e React**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
   <a href="https://github.com/EduardaMatias">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardaMatias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaMatias&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
- <div align="center" style="display: inline_block"><br>
-   
-  <img align="center" alt="Eduarda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eduarda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eduarda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eduarda-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Eduarda-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img align="center" alt="Eduarda-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Eduarda-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Eduarda-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
-  <br>
   
-  <div align="center"> 
-  <a href="https://www.instagram.com/arrobaduda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:evcm2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduarda-matias-8843481b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-  </div>
-  <br>  
-  
-<p align="center"><!--<img src="https://user-images.githubusercontent.com/72631018/130673376-595be31b-0bbd-4c9b-8f24-568a5b4f602a.gif" alt="clapping hands image" width="10px" style="max-width:100%;">-->&nbsp;Agradecimentos:&nbsp;</p>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-<p align="center"> ✏<a href="https://cbt.ifsp.edu.br/">IFSP</a>&emsp; :computer: <a href="https://www.cursoemvideo.com">Curso em Vídeo</a>&emsp; 👩‍💻 <a href="https://brazil.generation.org/">Generation</a>&emsp; 🎯 <a href="https://www.alura.com.br/">Alura</a>&emsp;  💡<a href="https://www.dio.me">DIO</a>&emsp; 👾 <a href="https://www.udemy.com//">Udemy</a></p>
+[![Linkedin: Eduarda Matias](https://img.shields.io/badge/-EduardaMatias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-matias/)](https://www.linkedin.com/in/eduarda-matias/)
+[![Gmail Badge](https://img.shields.io/badge/-evcm2003@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evcm2003@gmail.com)](mailto:evcm2003@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/EduardaMatias)
+  
 
