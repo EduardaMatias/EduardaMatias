@@ -37,6 +37,8 @@
 
   <a href="https://github.com/EduardaMatias">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardaMatias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=eduardamatias&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  </section>
   
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
