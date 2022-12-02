@@ -46,4 +46,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-evcm2003@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evcm2003@gmail.com)](mailto:evcm2003@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/eduardamatias?label=follow&style=social)](https://github.com/EduardaMatias)
   
-
+![Snake animation](https://github.com/eduardamatias/eduardamatias/blob/output/github-contribution-grid-snake.svg)
