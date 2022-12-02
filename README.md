@@ -44,6 +44,6 @@
 
 [![Linkedin: Eduarda Matias](https://img.shields.io/badge/-EduardaMatias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-matias/)](https://www.linkedin.com/in/eduarda-matias/)
 [![Gmail Badge](https://img.shields.io/badge/-evcm2003@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evcm2003@gmail.com)](mailto:evcm2003@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/EduardaMatias)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/eduardamatias?label=follow&style=social)](https://github.com/EduardaMatias)
   
 
