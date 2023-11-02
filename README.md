@@ -7,7 +7,6 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** no <a href="https://cbt.ifsp.edu.br/">IFSP</a>.
-- 🌱 &nbsp; Estudando sobre **JavaScript e React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
