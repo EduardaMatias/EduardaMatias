@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/2c1fa9ce-72dc-4015-8281-0f23e51dab0a" width="20"/>  Olá, meu nome é Eduarda.
-<img src="https://img.shields.io/static/v1?label=Overview&message=eduardamatias&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=eduardamatias&color=D0B8FF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=eduardamatias&show_icons=true&title_color=BC4DFF&text_color=D0B8FF&icon_color=BC4DFF&bg_color=0E1118&cache_seconds=300" alt="ilustração do status do github">
 
