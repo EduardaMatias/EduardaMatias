@@ -7,7 +7,7 @@ Sou desenvolvedora de software, com foco em tecnologias **.NET**, **ASP.NET MVC*
 
 Também tenho experiência com **Spring Boot**, **React**, **Next.js** e **MongoDB**, o que me permite me adaptar bem a diferentes tecnologias. Adoro trabalhar em equipes multidisciplinares e estou sempre em busca de soluções escaláveis e de alta qualidade. Para isso, uso ferramentas como **Azure DevOps** e **Git** para garantir que o trabalho seja bem gerido e organizado.
 
-Sou bem adaptável, focada em resultados e sempre busco aprender mais para contribuir com o sucesso do time e os projetos desafiadores! 🤟
+Sou bem adaptável, focada em resultados e sempre busco aprender mais para contribuir com o sucesso do time e os projetos desafiadores! 
 
 ```
 "Se vi mais longe, foi por estar de pé sobre os ombros de gigantes." - Newton
