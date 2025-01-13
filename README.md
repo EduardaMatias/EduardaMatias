@@ -5,7 +5,7 @@
 
 Sou desenvolvedora de software, com foco em tecnologias **.NET**, **ASP.NET MVC**, **SQL Server** e **Azure DevOps**. Sou formada em **Análise e Desenvolvimento de Sistemas** pelo **IFSP** e tenho experiência em criar e manter APIs, trabalhar com bancos de dados relacionais e desenvolver interfaces dinâmicas. Além disso, gosto de mexer com **Power BI** para criar dashboards incríveis e facilitar a análise de dados.
 
-Também tenho experiência com **Java**, **React**, **Next.js** e **MongoDB**, o que me permite me adaptar bem a diferentes tecnologias. Adoro trabalhar em equipes multidisciplinares e estou sempre em busca de soluções escaláveis e de alta qualidade. Para isso, uso ferramentas como **Azure DevOps** e **Git** para garantir que o trabalho seja bem gerido e organizado.
+Também tenho experiência com **Spring Boot**, **React**, **Next.js** e **MongoDB**, o que me permite me adaptar bem a diferentes tecnologias. Adoro trabalhar em equipes multidisciplinares e estou sempre em busca de soluções escaláveis e de alta qualidade. Para isso, uso ferramentas como **Azure DevOps** e **Git** para garantir que o trabalho seja bem gerido e organizado.
 
 Sou bem adaptável, focada em resultados e sempre busco aprender mais para contribuir com o sucesso do time e os projetos desafiadores!
 
