@@ -41,7 +41,7 @@ Na visão geral abaixo você encontrará minhas principais experiências de trab
 **Desenvolvedora de Software Full Stack** \
 [**cuboconnect**](https://www.cuboconnect.com.br/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `Spring Boot`, `React`, `SQLServer`, `ASP.NET MVC`, `PowerBI`\
-`JUL 2022 - O MOMENTO`
+*JUL 2022 - O MOMENTO*
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Accenture" src="https://media.licdn.com/dms/image/v2/D4E0BAQG-XygI4z934A/company-logo_200_200/company-logo_200_200/0/1723130650427/accenture_logo?e=1744848000&v=beta&t=-lOJFnUf_4Z7Kc0poS34Bysv80S-kmMc0_K2BXKhIYY"/>](https://www.accenture.com/br-pt)
@@ -49,7 +49,7 @@ Linguagens & Tecnologias: `.NET`, `Spring Boot`, `React`, `SQLServer`, `ASP.NET 
 **Desenvolvedora Backend** \
 [**Accenture**](https://www.accenture.com/br-pt) • Estágio \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `Quarkus`, `MongoDB`, `Scrum`\
-`OUT 2022 - DEZ 2023`
+*OUT 2022 - DEZ 2023*
 <br/>
 
 ## Entre em contato
