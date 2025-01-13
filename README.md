@@ -1,13 +1,13 @@
 # <img src="https://github.com/user-attachments/assets/2c1fa9ce-72dc-4015-8281-0f23e51dab0a" width="20"/>  Olá, meu nome é Eduarda.
 <img src="https://img.shields.io/static/v1?label=Overview&message=eduardamatias&color=D0B8FF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=eduardamatias&show_icons=true&title_color=BC4DFF&text_color=D0B8FF&icon_color=BC4DFF&bg_color=0E1118&cache_seconds=50000" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=eduardamatias&show_icons=true&title_color=BC4DFF&text_color=D0B8FF&icon_color=BC4DFF&bg_color=0E1118&cache_seconds=5" alt="ilustração do status do github">
 
 Sou desenvolvedora de software, com foco em tecnologias **.NET**, **ASP.NET MVC**, **SQL Server** e **Azure DevOps**. Sou formada em **Análise e Desenvolvimento de Sistemas** pelo **IFSP** e tenho experiência em criar e manter APIs, trabalhar com bancos de dados relacionais e desenvolver interfaces dinâmicas. Além disso, gosto de mexer com **Power BI** para criar dashboards incríveis e facilitar a análise de dados.
 
 Também tenho experiência com **Spring Boot**, **React**, **Next.js** e **MongoDB**, o que me permite me adaptar bem a diferentes tecnologias. Adoro trabalhar em equipes multidisciplinares e estou sempre em busca de soluções escaláveis e de alta qualidade. Para isso, uso ferramentas como **Azure DevOps** e **Git** para garantir que o trabalho seja bem gerido e organizado.
 
-Sou bem adaptável, focada em resultados e sempre busco aprender mais para contribuir com o sucesso do time e os projetos desafiadores! 
+Sou bem adaptável, focada em resultados e sempre busco aprender mais para contribuir com o sucesso do time e os projetos desafiadores! 🤟💜
 
 ```
 "Se vi mais longe, foi por estar de pé sobre os ombros de gigantes." - Newton
