@@ -19,6 +19,7 @@ Sou bem adaptável, focada em resultados e sempre busco aprender mais para contr
 ```
 "Se vi mais longe, foi por estar de pé sobre os ombros de gigantes." - Newton
 ```
+<img src="https://github.com/user-attachments/assets/07f96b74-979d-467b-8469-d855679a0223" width="500">
 
 ## Stacks
 Na visão geral abaixo você encontrará minhas principais stacks:
