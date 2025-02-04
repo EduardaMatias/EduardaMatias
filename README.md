@@ -1,21 +1,20 @@
 # <img src="https://github.com/user-attachments/assets/2c1fa9ce-72dc-4015-8281-0f23e51dab0a" width="20"/>  Olá 
-<img src="https://img.shields.io/static/v1?label=Overview&message=eduardamatias&color=D0B8FF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=eduardamatias&color=699AEF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ![Twitter header - 1](https://github.com/user-attachments/assets/059af3ff-c1d5-4847-ad6e-94a4064a7e9b)
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=eduardamatias&show_icons=true&title_color=C35FFE&text_color=D0B8FF&icon_color=C35FFE&bg_color=0E1118&cache_seconds=5" alt="ilustração do status do github">
 
-- Desenvolvedora de Software; 
-- Formada em Análise e Desenvolvimento de Sistemas pelo IFSP;
-- Experiência na manutenção, integração e criação de APIs RESTfull; 
-- Experiência com Banco de Dados Relacionais e Não Relacionais, em especial SQL Server e MongoDB;
-- Experiência na criação de interfaces utilizando ReactJS, NextJS e ASPNET MVC;
-- Experiência na criação de microsserviços utilizando .NET e Spring Boot;
-- Experiência na implementação de dashboards no Power BI;
-- Experiência com versionamento de código (Git, Azure DevOps, etc.);
-- Experiência com Metodologias Ágeis;
-- Capacidade de adaptação a diferentes stacks;
+𐓷 Formada em Análise e Desenvolvimento de Sistemas pelo IFSP; </br>
+𐓷 Experiência na manutenção, integração e criação de APIs RESTfull; </br>
+𐓷 Experiência com Banco de Dados Relacionais e Não Relacionais, em especial SQL Server e MongoDB; </br>
+𐓷 Experiência na criação de interfaces utilizando ReactJS, NextJS e ASPNET MVC; </br>
+𐓷 Experiência na criação de microsserviços utilizando .NET e Spring Boot; </br>
+𐓷 Experiência na implementação de dashboards no Power BI; </br>
+𐓷 Experiência com versionamento de código (Git, Azure DevOps, etc.); </br>
+𐓷 Experiência com Metodologias Ágeis; </br>
+𐓷 Capacidade de adaptação a diferentes stacks; </br>
 
 Sou bem adaptável, focada em resultados e sempre busco aprender mais para contribuir com o sucesso do time! 🤟💜
 
