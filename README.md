@@ -57,7 +57,7 @@ Linguagens & Tecnologias: `.NET`, `Spring Boot`, `React`, `SQLServer`, `ASP.NET 
 
 **Desenvolvedora Backend** \
 [**Accenture**](https://www.accenture.com/br-pt) • Estágio \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `Quarkus`, `MongoDB`, `Scrum`\
+Linguagens & Tecnologias: `JavaScript`, `Node`, `Quarkus`, `MongoDB`, `Scrum`, `RabbitMQ`, `AWS`\
 *OUT 2022 - DEZ 2023*
 <br/>
 
